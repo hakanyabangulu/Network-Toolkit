@@ -66,3 +66,9 @@ Troubleshooting
     Network Issues: Use subnet broadcast (e.g., 192.168.1.255) if 255.255.255.255 fails.
     Errors: Ensure all dependencies are installed and paths are correct.
 
+
+When runs :
+
+    ![Ekran görüntüsü 2025-05-05 163432](https://github.com/user-attachments/assets/8abdb4ca-9f6a-4bdb-a739-a4b8b2d76f4b)
+
+
