@@ -67,5 +67,6 @@ Troubleshooting
     Errors: Ensure all dependencies are installed and paths are correct.
 
 
-When runs :
+When Runs :
+
 ![Ekran görüntüsü 2025-05-06 124830](https://github.com/user-attachments/assets/e6198e28-f6db-4f6b-842c-e2186a9e0603)
